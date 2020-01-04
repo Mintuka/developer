@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_view"> Electronics </string>
+    <string name="buttone_one">Buy</string>
+    <string name="buttone_two">Buy</string>
+    <string name="buttone_three">Buy</string>
+    <string name="buttone_four">Buy</string>
+    <string name="log_in">LOg-in</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="create">Create</string>
+    <string name="minte0910">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="bank">Bank Name</string>
+    <string name="account_no">Account no.</string>
+    <string name="abiyahmed2019_gmail_com">abiyahmed2019@gmail.com</string>
+    <string name="singin">Sign-in</string>
+    <string name="singout">Sign-out</string>
+    ///////////////////////////////////////////////////////////////////////
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">$499</string>
+    <string name="buy">buy</string>
+    <string name="sports_info_placeholder">Core i7 /n 16GB RAM /n 1 Tera</string>
+
+    <string name="finish">Finish</string>
+    <string name="purchase">purchase</string>
+    <string name="have_no_account">have no account?</string>
+    <string name="register">Register</string>
+    <string name="to_minalesh">to minalesh</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login</string>
+    <string name="house_no">House-no</string>
+    <string name="password_hint">**********</string>
+
+    <string-array name="Laptop_names">
+        <item>HP-NOTEBOOK</item>
+        <item>ACER</item>
+        <item>ASUS</item>
+        <item>DELL</item>
+        <item>LENOVO</item>
+        <item>MAC</item>
+        <item>MICROSOFT</item>
+        <item>OMEN-X</item>
+        <item>RAZER BLADE</item>
+        <item>SAMSUNG</item>
+        <item>TOSHIBA</item>
+    </string-array>
+
+    <string-array name="Laptops_info">
+        <item>HP-NOTEBOOK specifications......</item>
+        <item>ACER news specifications......</item>
+        <item>ASUS specifications......</item>
+        <item>DELL specifications.....</item>
+        <item>LENOVO specifications.....</item>
+        <item>MAC specifications.....</item>
+        <item>MICROSOFT specifications.....</item>
+        <item>OMEN-X specifications.....</item>
+        <item>RAZER BLADE specifications.....</item>
+        <item>SAMSUNG specifications.....</item>
+        <item>TOSHIBA specifications.....</item>
+    </string-array>
+    <array name="Laptops_Images">
+        <item>@drawable/img_hpnotebook</item>
+        <item>@drawable/img_acer</item>
+        <item>@drawable/img_asus</item>
+        <item>@drawable/img_dell</item>
+        <item>@drawable/img_lenovo</item>
+        <item>@drawable/img_mac</item>
+        <item>@drawable/img_microsoft</item>
+        <item>@drawable/img_omen_x</item>
+        <item>@drawable/img_razer_blade</item>
+        <item>@drawable/img_samsung</item>
+        <item>@drawable/img_toshiba</item>
+    </array>
+</resources>
